@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "xlocmon": "cpp",
+        "xlocnum": "cpp",
+        "xtr1common": "cpp",
+        "xstring": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "list": "cpp",
+        "map": "cpp"
+    }
+}
